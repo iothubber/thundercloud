@@ -1,6 +1,9 @@
 #SiliconLabs Thunderboard Web Client
 ---
 
+REMINDER:
+Please not that this package contains old, deprecated libraries and codes!
+Please comment here, if you can make this work using Firebase.
 
 ##Introduction
 The web client is built with various web tools including:
